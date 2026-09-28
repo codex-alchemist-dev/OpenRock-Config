@@ -1,0 +1,8 @@
+{
+  "name": "@openrock/config",
+  "version": "1.0.0",
+  "description": "Per-mod configuration, build-time-baked (bakeConfig) and runtime-mutable (readRuntimeConfig/writeRuntimeConfig via Capabilities), both validated against one declared schema.",
+  "license": "MPL-2.0",
+  "private": true,
+  "main": "src/register.js"
+}
